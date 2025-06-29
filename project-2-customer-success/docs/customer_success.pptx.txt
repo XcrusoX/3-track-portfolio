@@ -1,0 +1,79 @@
+
+
+Slide 1 – Title & Agenda  
+• Project 2: [Customer Scuccess]  
+• Your Name:Sanket Dhongade | Date :29/6/2025 
+• Agenda:  
+  1. Overview & Objectives  
+  2. Service Journey Map  
+  3. Pain-Points & Opportunities  
+  4. Stakeholder Plan  
+  5. Change-Mgmt Tactics  
+  6. Success Matrix  
+  7. Next Steps & Ask  
+
+–––
+
+Slide 2 – Project Overview & Objectives  
+• Problem Statement  
+  – “CS team needs a unified service journey to improve onboarding and retention.”  
+• Objectives (SMART)  
+  1. Reduce onboarding calls by 25 % in Q3  
+  2. Increase first-contact resolution to 75 % by end of month  
+  3. Achieve 90 % onboarding completion within 48 hrs  
+
+–––
+
+Slide 3 – Service Journey Map (High-Level)  
+[Embed graphic or table of stages]  
+• Awareness → Onboarding → Support → Renewal  
+• Highlight key touchpoints at each stage  
+
+–––
+
+Slide 4 – Journey Details & Pain-Points  
+| Stage       | User Action          | Pain-Point                       | Opportunity                           |
+|-------------|----------------------|----------------------------------|---------------------------------------|
+| Onboarding  | Receive welcome pack | Confusing setup instructions     | Simplify doc + add video walkthrough  |
+| Support     | Submit ticket        | Long response time (avg 4 hrs)   | Automate triage & routing             |
+| Renewal     | Review contract      | Lack of reminders                | Set up automated email sequence       |
+
+–––
+
+Slide 5 – Stakeholder Plan  
+| Stakeholder      | Role                | Interest                        | Influence | Engagement                      |
+|------------------|---------------------|---------------------------------|-----------|---------------------------------|
+| CS Manager       | Approves improvements| Better NPS & efficiency         | High      | Weekly check-in demo            |
+| Support Agents   | Execute workflows   | Clear steps & fewer tickets     | Medium    | Pilot feedback session          |
+| IT/Ops           | Implements changes  | Low-risk deployment             | Medium    | Technical hand-off meeting      |
+| Customers        | Experience journey  | Ease & clarity                  | Low       | Beta feedback survey            |
+
+–––
+
+Slide 6 – Change-Mgmt & Comms Tactics  
+• Rollout Plan  
+  1. Alpha (internal dry-run)  
+  2. Beta (3 pilot customers)  
+  3. GA (wider release)  
+• Communications  
+  – Quick-start guides (PDF + video)  
+  – Email announcements & training webinar  
+
+–––
+
+Slide 7 – Success Matrix  
+| Criterion                 | Metric                                | Target      | Owner      | Frequency |
+|---------------------------|---------------------------------------|-------------|------------|-----------|
+| Onboarding Completion     | % completed within 48 hrs             | ≥ 90 %      | CS Lead    | Weekly    |
+| First-Contact Resolution  | % tickets closed on first reply       | ≥ 75 %      | Support Mgr| Daily     |
+| Customer Satisfaction (NPS)| Survey score                         | ≥ 8/10      | CS Manager | Monthly   |
+
+–––
+
+Slide 8 – Next Steps & Ask  
+• Finalize journey refinements by [Date]  
+• Kick off beta pilot with 3 key customers by [Date]  
+• Review success metrics in 2 weeks (schedule meeting)  
+• Ask: Stakeholder approvals & resource alignment  
+
+—  
