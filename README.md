@@ -1,31 +1,50 @@
-# Project-OPS: Invoice → Cash Flow Pipeline
+# 3-Track-Portfolio
 
-## Overview
-End-to-end: dummy data → cleanup script → flowchart → interactive Power BI dashboard.
+This repository contains three independent BA projects.
 
-## Data & Code
-- **Raw & Cleaned Data:** `project-ops/data/cashflow_cleaned.csv`
-- **Cleanup Script:** `project-ops/script/clean_cashflow.py`
-- **Flowchart:** `project-ops/diagrams/plan.png`
-- **Dashboard:** `project-ops/reports/cashflow_report.pbix` & `.pdf`
+---
 
-## Drill-Down & Interactivity
-- **Customer Slicer:** Filter by CustomerID or Month.
-- **Scatter Plot:** Invoice-level DaysOutstanding vs. Net Cash w/ Reminder.
-- **What-If Slider:** PaymentReminderDays (0–60 in 5-day steps).
+## Project 1: Invoice Automation
 
-## Insights
-- Optimal reminder at **25 days** boosts net cash by **12%**.
-- Customers C102 & C207 pay within 10 days on average.
-- Without reminders, Q2 faces a 5% cash shortfall forecast.
+├── docs/  
+│   ├── cost-benefits-gap-analysis.md  
+│   ├── implementation-roadmap.md  
+│   ├── interview-deck.md  
+│   ├── kpi-scorecard.md  
+│   ├── requirements.md  
+│   ├── stakeholder-plan.md  
+│   ├── stakeholder-raci.md  
+│   ├── roi-analysis.md  
+│   └── uat-summary.md  
 
-## Next Steps
-1. Add rolling-average measures and KPI cards.  
-2. Publish to Power BI Service & schedule auto-refresh.  
+├── data/  
+│   ├── cashflow.csv  
+│   ├── cashflow_cleaned.csv  
+│   └── cashflow_cleaned.xlsx  
 
-## How to Run Locally
-```bash
-git clone https://github.com/XcrusoX/3-track-portfolio.git
-pip install pandas
-python project-ops/script/clean_cashflow.py
-# open PBIX in Power BI Desktop
+├── diagrams/  
+│   ├── as-is_flowchart.png  
+│   ├── invoice_pipeline_flowchart.png  
+│   └── to-be_flowchart.png  
+
+├── report/  
+│   └── cashflow_report.pbix  
+
+└── script/  
+    ├── ap.py  
+    ├── clean_cashflow.py  
+    └── gen_dummy.py  
+
+### How to run Project 1
+
+1. `cd script`  
+2. `pip install -r requirements.txt` (if you have one)  
+3. `python gen_dummy.py` (optional data seeding)  
+4. `python ap.py` to start the Flask webhook  
+5. Open `report/cashflow_report.pbix` in Power BI  
+
+---
+
+## Project 2 & 3
+
+Coming soon—service journeys, stakeholder plans, success matrices, etc.
